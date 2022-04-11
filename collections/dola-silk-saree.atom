@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https:///collections/dola-silk-saree.atom"/>
+  <title>Yaana Creats</title>
+  <updated>2022-02-22T11:55:52+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>https:///products/6788107305019</id>
+    <published>2022-02-22T11:55:52+05:30</published>
+    <updated>2022-02-22T11:55:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-pitch-saree-with-pink-blouse"/>
+    <title>Beautiful pitch  Saree With Pink Blouse</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/15021.jpg?v=1645511153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product-title" data-mce-fragment="1"><span data-mce-fragment="1">JACQUARD WOVEN SILK SAREE WITH EMBROIDERED WORK AND SWAROVSKI WORK</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788107305019</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3720.00</s:price>
+      <s:sku>1502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788103962683</id>
+    <published>2022-02-22T11:46:26+05:30</published>
+    <updated>2022-02-22T11:46:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-brown-saree"/>
+    <title>Beautiful Brown Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1501-1.jpg?v=1645510588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Beautiful Brown Saree with  RESHAM EMBROIDERY, ZARI, SWAROVSKIAND HAND WORK with YELLOW Blouse</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788103962683</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3599.00</s:price>
+      <s:sku>1501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674060181563</id>
+    <published>2021-10-19T18:23:12+05:30</published>
+    <updated>2021-10-19T18:23:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-rich-designer-dola-silk-saree-1"/>
+    <title>Multi Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/09_b483da8d-171f-4529-ba4e-d4923c4636a2.jpg?v=1634647992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery </span><span data-mce-fragment="1">Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674060181563</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8100.00</s:price>
+      <s:sku>TS4809</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674059296827</id>
+    <published>2021-10-19T18:21:24+05:30</published>
+    <updated>2021-10-19T18:21:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/turquoise-color-rich-designer-dola-silk-saree"/>
+    <title>Turquoise Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/08_4334cd3e-045f-4690-bfd2-b18a634f53a9.jpg?v=1634647884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674059296827</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>TS4808</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674057265211</id>
+    <published>2021-10-19T18:17:22+05:30</published>
+    <updated>2021-10-19T18:17:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/grey-color-designer-dola-silk-saree"/>
+    <title>Grey Color Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/07-1_41ae837e-592b-4c34-99e7-4ee2760664ea.jpg?v=1634647643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse.</span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674057265211</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8250.00</s:price>
+      <s:sku>TS4807</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674055823419</id>
+    <published>2021-10-19T18:14:39+05:30</published>
+    <updated>2021-10-19T18:14:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-floral-designer-dola-silk-saree"/>
+    <title>Multi Color Floral Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/06_4da728ed-bfcd-422f-bb18-e2c26294e12e.jpg?v=1634647480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674055823419</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7450.00</s:price>
+      <s:sku>TS4806</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674054152251</id>
+    <published>2021-10-19T18:10:54+05:30</published>
+    <updated>2021-10-19T18:10:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-red-color-designer-bhandej-dola-silk-saree"/>
+    <title>Dark Red Color Designer Bhandej Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/05_6a84d55d-44fe-4b79-8724-9424dd0bdf74.jpg?v=1634647255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674054152251</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8900.00</s:price>
+      <s:sku>TS4805</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674041143355</id>
+    <published>2021-10-19T17:43:30+05:30</published>
+    <updated>2021-10-19T17:43:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/violetred-color-designer-bandhani-dola-silk-saree"/>
+    <title>Violetred Color Designer Bandhani Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/04_eeef3093-4535-49ba-9414-ef863a9736f5.jpg?v=1634645611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674041143355</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8890.00</s:price>
+      <s:sku>TS4804</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674038947899</id>
+    <published>2021-10-19T17:37:24+05:30</published>
+    <updated>2021-10-19T17:37:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-color-designer-patola-dola-silk-saree"/>
+    <title>Yellow Color Designer Patola Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/03_eca932ce-2479-4579-8301-9a693a3b117b.jpg?v=1634645244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674038947899</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8990.00</s:price>
+      <s:sku>TS4803</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674038095931</id>
+    <published>2021-10-19T17:35:39+05:30</published>
+    <updated>2021-10-19T17:35:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/lemon-color-designer-patola-dola-silk-saree"/>
+    <title>Lemon Color Designer Patola Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/02_bbb1f493-726c-448d-a6c7-3e7a19e45f96.jpg?v=1634645140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674038095931</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8990.00</s:price>
+      <s:sku>TS4802</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674033901627</id>
+    <published>2021-10-19T17:25:51+05:30</published>
+    <updated>2021-10-19T17:25:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-rich-designer-dola-silk-saree"/>
+    <title>Multi Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/01_9746ef1f-cd33-45e0-a6cd-8976aab67006.jpg?v=1634644552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy Gotapatti Border and Blouse.</p>
+<p>Stone Work.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674033901627</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8900.00</s:price>
+      <s:sku>TS4801</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6669230833723</id>
+    <published>2021-10-12T11:09:45+05:30</published>
+    <updated>2021-10-12T11:09:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-turquoise-woven-designer-magic-dola-silk-saree"/>
+    <title>Dark turquoise Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/12.jpg?v=1634017186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #109b7c;" data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #109b7c;" data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6669230833723</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4580.00</s:price>
+      <s:sku>TS4712</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6669229555771</id>
+    <published>2021-10-12T11:04:33+05:30</published>
+    <updated>2021-10-12T11:04:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/heavy-rich-pallu-woven-designer-magic-dola-silk-saree"/>
+    <title>Heavy Rich Pallu Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11.jpg?v=1634016875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #1c4e07;">Heavy Embroidery Border with Blouse,</span></p>
+<p><span style="color: #1c4e07;"> Stone work</span></p>
+<div class="pro-detail-action" data-mce-fragment="1"><form action="#" method="post" class="cart" enctype="multipart/form-data" id="add-item-form" data-mce-fragment="1">
+<div class="product-variant-option" data-mce-fragment="1"><br></div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6669229555771</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4840.00</s:price>
+      <s:sku>TS4711</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6669228900411</id>
+    <published>2021-10-12T11:01:03+05:30</published>
+    <updated>2021-10-12T11:01:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/mustard-color-woven-designer-magic-dola-silk-saree-1"/>
+    <title>Mustard Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/10.jpg?v=1634016664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #beab0b;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #beab0b;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6669228900411</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4400.00</s:price>
+      <s:sku>TS4710</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6669228277819</id>
+    <published>2021-10-12T10:57:55+05:30</published>
+    <updated>2021-10-12T10:57:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/peacock-floral-woven-designer-magic-dola-silk-saree"/>
+    <title>Peacock Floral Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/09.jpg?v=1634016477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #1487bc;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #1487bc;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6669228277819</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4730.00</s:price>
+      <s:sku>TS4709</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668855410747</id>
+    <published>2021-10-11T19:01:56+05:30</published>
+    <updated>2021-10-11T19:01:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-pista-color-woven-designer-magic-dola-silk-saree"/>
+    <title>Light Pista Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/08.jpg?v=1633959117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4070.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #84ce3b;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #84ce3b;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668855410747</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4070.00</s:price>
+      <s:sku>TS4708</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668853510203</id>
+    <published>2021-10-11T18:57:37+05:30</published>
+    <updated>2021-10-11T18:57:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/red-shaded-woven-designer-magic-dola-silk-saree"/>
+    <title>Red Shaded Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/07.jpg?v=1633958857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5151.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #cf2222;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #cf2222;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668853510203</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5151.00</s:price>
+      <s:sku>TS4707</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668848791611</id>
+    <published>2021-10-11T18:47:49+05:30</published>
+    <updated>2021-10-11T18:47:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-lemon-color-woven-designer-magic-dola-silk-saree"/>
+    <title>Dark Lemon Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/06.jpg?v=1633958270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #9ec60a;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #9ec60a;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668848791611</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4600.00</s:price>
+      <s:sku>TS4706</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668846563387</id>
+    <published>2021-10-11T18:43:06+05:30</published>
+    <updated>2021-10-11T18:43:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/red-and-orange-color-woven-designer-magic-dola-silk-saree"/>
+    <title>Red and Orange Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/05-1.jpg?v=1633957986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #a61111;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #a61111;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668846563387</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4600.00</s:price>
+      <s:sku>TS4705</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668844073019</id>
+    <published>2021-10-11T18:37:57+05:30</published>
+    <updated>2021-10-11T18:37:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/mustard-color-woven-designer-magic-dola-silk-saree"/>
+    <title>Yellow Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/04.jpg?v=1633957677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #cfc304;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #cfc304;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668844073019</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4510.00</s:price>
+      <s:sku>TS4704</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668840140859</id>
+    <published>2021-10-11T18:29:48+05:30</published>
+    <updated>2021-10-11T18:29:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/greenish-brown-color-woven-designer-magic-dola-silk-saree"/>
+    <title>Greenish Brown Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/03.jpg?v=1633957189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4610.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #5d6c0f;">Heavy Embroidery Border with Blouse,</span></p>
+<p><span style="color: #5d6c0f;"> Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668840140859</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4610.00</s:price>
+      <s:sku>TS4703</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6668836831291</id>
+    <published>2021-10-11T18:24:42+05:30</published>
+    <updated>2021-10-11T18:24:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/woven-designer-rich-dola-silk-saree"/>
+    <title>Woven Designer Rich Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/02.jpg?v=1633956816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff1818;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #ff1818;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6668836831291</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4690.00</s:price>
+      <s:sku>TS4702</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6667888820283</id>
+    <published>2021-10-09T16:58:24+05:30</published>
+    <updated>2021-10-09T16:58:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/red-and-green-color-woven-designer-magic-dola-saree"/>
+    <title>Red and Green Color Woven Designer Magic Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/01.jpg?v=1633778905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Heavy Embroidery Border with Blouse,</div>
+<div style="text-align: center;">Stone work</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6667888820283</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4690.00</s:price>
+      <s:sku>TS4701</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

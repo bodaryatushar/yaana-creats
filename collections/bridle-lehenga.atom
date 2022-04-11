@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https:///collections/bridle-lehenga.atom"/>
+  <title>Yaana Creats</title>
+  <updated>2022-03-17T12:16:56+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>https:///products/6808590221371</id>
+    <published>2022-03-17T12:16:56+05:30</published>
+    <updated>2022-03-17T12:16:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/teal-blue-silk-embroidered-lehenga-with-peacock-motifs"/>
+    <title>Teal Blue Silk Embroidered Lehenga with Peacock Motifs</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1106.jpg?v=1647499617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            5875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teal Blue Silk Embroidered Lehenga with Peacock Motifs with Colorfull beads, havy blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6808590221371</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5875.00</s:price>
+      <s:sku>1106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6808537792571</id>
+    <published>2022-03-17T11:37:04+05:30</published>
+    <updated>2022-03-17T11:37:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/majanta-silk-all-over-embroidered-lehenga"/>
+    <title>Majanta Silk All Over Embroidered Lehenga</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11051.jpg?v=1647497225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            4649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Majanta Silk All Over Embroidered Lehenga  with Gota  Work And Hand Work With Orenge Dupatta</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6808537792571</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4649.00</s:price>
+      <s:sku>1105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792318287931</id>
+    <published>2022-02-28T14:11:51+05:30</published>
+    <updated>2022-02-28T14:11:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pista-green-silk-embroidered-lehenga"/>
+    <title>Pista Green Silk Embroidered Lehenga</title>
+    <s:type>LEHANGA CHOLI</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1104.jpg?v=1646037712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHANGA CHOLI<br>
+        <strong>Price: </strong>
+            4625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pista Green Silk Embroidered Lehenga With Havy Handwork and pink Dupatta With Pink Work Boder</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792318287931</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4625.00</s:price>
+      <s:sku>1104 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792265760827</id>
+    <published>2022-02-28T12:07:47+05:30</published>
+    <updated>2022-02-28T12:07:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pink-silk-havy-embroidered-lehenga"/>
+    <title>Pink Silk Havy Embroidered Lehenga</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11031.jpg?v=1646030344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            6780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Silk Havy Embroidered Lehenga with Havy Jurkan Work , ton to ton Net Dupatta, and HAvy Blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792265760827</id>
+      <title>Default Title</title>
+      <s:price currency="INR">6780.00</s:price>
+      <s:sku>1103 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792262844475</id>
+    <published>2022-02-28T11:58:27+05:30</published>
+    <updated>2022-02-28T11:58:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pink-silk-embroidered-lehenga-with-bird-patching-motifs"/>
+    <title>Pink Silk Embroidered Lehenga with Bird Patching Motifs</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11021.jpg?v=1646029708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            4650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Silk Embroidered Lehenga with Bird Patching Motifs And Havy Hand Work WIth light Pink Net Duptaa With Boder</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792262844475</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4650.00</s:price>
+      <s:sku>1102 A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792256487483</id>
+    <published>2022-02-28T11:40:57+05:30</published>
+    <updated>2022-02-28T11:40:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-silk-embroidered-lehenga"/>
+    <title>Yellow Silk Embroidered Lehenga</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11011.jpg?v=1646028657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            5199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yellow Silk Embroidered Lehenga With Havy Hand Work, With Mehnadi Net Dujpatta</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792256487483</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5199.00</s:price>
+      <s:sku>1101 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6776206164027</id>
+    <published>2022-02-07T13:27:28+05:30</published>
+    <updated>2022-02-07T13:27:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-lehenga-choli-with-red-dupatta"/>
+    <title>YELLOW LEHENGA CHOLI WITH RED DUPATTA</title>
+    <s:type>LEHANGA CHOLI</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/12091.jpg?v=1644220650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHANGA CHOLI<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">YELLOW LEHENGA CHOLI WITH RED DUPATTA WITH EMBROIDERD AND HAND WORK WITH ROW SILK BLOUSE</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6776206164027</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3999.00</s:price>
+      <s:sku>1209</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6776197054523</id>
+    <published>2022-02-07T12:34:46+05:30</published>
+    <updated>2022-02-07T12:34:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/girlish-embroidered-lehenga"/>
+    <title>Girlish Embroidered lehenga</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/12041.jpg?v=1644217487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="product_title" data-mce-fragment="1">
+<span data-mce-fragment="1"> </span>BEAUTIFUL ONION COLOR WITH HEAVY WORKED LEHENGA CHOLI, WITH MAJTA BLOUSE AND PISTA NET DUPATTA WITH WORK</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6776197054523</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4999.00</s:price>
+      <s:sku>1204</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

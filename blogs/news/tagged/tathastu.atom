@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>#.atom</id>
+  <link rel="alternate" type="text/html" href="#"/>
+  <link rel="self" type="application/atom+xml" href="#/tagged/tathastu.atom"/>
+  <title>Yaana Creats - News</title>
+  <updated>2020-03-04T18:05:00+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>#/tathastu-saree-series-collection</id>
+    <published>2020-03-04T18:05:00+05:30</published>
+    <updated>2020-03-04T18:05:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="#/tathastu-saree-series-collection"/>
+    <title>Tathastu Saree Series Collection</title>
+    <author>
+      <name>Yaana Creats Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="blog-wrap-desc">
+<p class="blog-desc">write content here</p>
+<div class="blog-desc-pic">
+<img src="//cdn.shopify.com/s/files/1/0320/9514/1947/files/h-blog-1_medium.jpg?v=1582968671" alt=""><br>
+<p><strong>some highlight content here</strong></p>
+<p>type another desc here if need more add p tag extra in sample file for blog</p>
+</div>
+<p class="blog-desc">write another content here if needed</p>
+<blockquote>some blockquote text here</blockquote>
+<p class="blog-desc">write another content here if needed</p>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>#/tathastu-best-saree-collection</id>
+    <published>2020-03-04T17:58:00+05:30</published>
+    <updated>2020-03-04T17:58:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="#/tathastu-best-saree-collection"/>
+    <title>Tathastu Best Saree Collection</title>
+    <author>
+      <name>Yaana Creats Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="blog-wrap-desc">
+<p class="blog-desc">write content here</p>
+<div class="blog-desc-pic">
+<img src="//cdn.shopify.com/s/files/1/0320/9514/1947/files/h-blog-1_medium.jpg?v=1582968671" alt=""><br>
+<p><strong>some highlight content here</strong></p>
+<p>type another desc here if need more add p tag extra in sample file for blog</p>
+</div>
+<p class="blog-desc">write another content here if needed</p>
+<blockquote>some blockquote text here</blockquote>
+<p class="blog-desc">write another content here if needed</p>
+</div>]]>
+    </content>
+  </entry>
+</feed>

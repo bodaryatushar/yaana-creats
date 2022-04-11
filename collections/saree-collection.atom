@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https:///collections/saree-collection.atom"/>
+  <title>Yaana Creats</title>
+  <updated>2022-02-23T10:53:29+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>https:///products/6788892622907</id>
+    <published>2022-02-23T10:53:29+05:30</published>
+    <updated>2022-02-23T10:53:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/orange-organza-saree"/>
+    <title>Orange Organza Saree</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13061.jpg?v=1645593810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="page-title" data-mce-fragment="1"><span data-ui-id="page-title-wrapper" class="base" data-mce-fragment="1">Orange Organza  Leheriya  Saree with With Foil Work, And orenge Woven Boder With Jari Work, Havy Blouse With Hand Work</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788892622907</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2160.00</s:price>
+      <s:sku>1506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788882989115</id>
+    <published>2022-02-23T10:38:42+05:30</published>
+    <updated>2022-02-23T10:38:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-pastel-pista-green-organza-saree"/>
+    <title>Light Pastel Pista Green Organza saree</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13051.jpg?v=1645592924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Likght Pastle Orgenza Net Saree With Checks Foil Work, Green Woven Boder, And Green Havy Work BLouse</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788882989115</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2280.00</s:price>
+      <s:sku>1305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788178280507</id>
+    <published>2022-02-22T15:22:06+05:30</published>
+    <updated>2022-02-22T15:22:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/silk-fabric-pitch-saree"/>
+    <title>SILK FABRIC PITCH SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13041.jpg?v=1645523527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FIOL ON SILKY FABRIC SAREE WITH RED WOVEN BODER AND PALLU, WITH GREEEN BLOUSE AND HAVY WORK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788178280507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2120.00</s:price>
+      <s:sku>1304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788139155515</id>
+    <published>2022-02-22T13:31:33+05:30</published>
+    <updated>2022-02-22T13:31:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-rama-combination-saree"/>
+    <title>YELLOW RAMA  COMBINATION SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13031.jpg?v=1645516894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Silk Febric Saree With Foil Work and Rama woven silk boder, and silk blouse  with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788139155515</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2250.00</s:price>
+      <s:sku>1303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788129128507</id>
+    <published>2022-02-22T13:19:26+05:30</published>
+    <updated>2022-02-22T13:19:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-onion-saree-with-boder"/>
+    <title>Beautiful Onion Saree with Boder</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13021.jpg?v=1645516168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Onion Saree with Foil Work And Banarasi Boder With Majanza blouse with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788129128507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788103962683</id>
+    <published>2022-02-22T11:46:26+05:30</published>
+    <updated>2022-02-22T11:46:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-brown-saree"/>
+    <title>Beautiful Brown Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1501-1.jpg?v=1645510588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Beautiful Brown Saree with  RESHAM EMBROIDERY, ZARI, SWAROVSKIAND HAND WORK with YELLOW Blouse</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788103962683</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3599.00</s:price>
+      <s:sku>1501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788096720955</id>
+    <published>2022-02-22T11:25:58+05:30</published>
+    <updated>2022-02-22T11:25:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-yellow-organza-net-heavy-wedding-saree"/>
+    <title>light yellow organza net heavy wedding  saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14021.jpg?v=1645509359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5680.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Havy Embroidered on light  Yellow organza net with Cutwork and Jurkan work with PInk blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788096720955</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5680.00</s:price>
+      <s:sku>1402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788091379771</id>
+    <published>2022-02-22T11:12:42+05:30</published>
+    <updated>2022-02-22T11:12:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/designer-wedding-wear-saree"/>
+    <title>Designer Wedding Wear Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14011.jpg?v=1645508563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"> Designer Wedding Wear Grey  Saree with havy Embroidered and Jurkan Work</span></p>
+<p><span data-mce-fragment="1">on Orgenza net</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788091379771</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5460.00</s:price>
+      <s:sku>1401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674060181563</id>
+    <published>2021-10-19T18:23:12+05:30</published>
+    <updated>2021-10-19T18:23:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-rich-designer-dola-silk-saree-1"/>
+    <title>Multi Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/09_b483da8d-171f-4529-ba4e-d4923c4636a2.jpg?v=1634647992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery </span><span data-mce-fragment="1">Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674060181563</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8100.00</s:price>
+      <s:sku>TS4809</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674059296827</id>
+    <published>2021-10-19T18:21:24+05:30</published>
+    <updated>2021-10-19T18:21:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/turquoise-color-rich-designer-dola-silk-saree"/>
+    <title>Turquoise Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/08_4334cd3e-045f-4690-bfd2-b18a634f53a9.jpg?v=1634647884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674059296827</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>TS4808</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674057265211</id>
+    <published>2021-10-19T18:17:22+05:30</published>
+    <updated>2021-10-19T18:17:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/grey-color-designer-dola-silk-saree"/>
+    <title>Grey Color Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/07-1_41ae837e-592b-4c34-99e7-4ee2760664ea.jpg?v=1634647643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse.</span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674057265211</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8250.00</s:price>
+      <s:sku>TS4807</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674055823419</id>
+    <published>2021-10-19T18:14:39+05:30</published>
+    <updated>2021-10-19T18:14:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-floral-designer-dola-silk-saree"/>
+    <title>Multi Color Floral Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/06_4da728ed-bfcd-422f-bb18-e2c26294e12e.jpg?v=1634647480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674055823419</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7450.00</s:price>
+      <s:sku>TS4806</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674054152251</id>
+    <published>2021-10-19T18:10:54+05:30</published>
+    <updated>2021-10-19T18:10:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-red-color-designer-bhandej-dola-silk-saree"/>
+    <title>Dark Red Color Designer Bhandej Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/05_6a84d55d-44fe-4b79-8724-9424dd0bdf74.jpg?v=1634647255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674054152251</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8900.00</s:price>
+      <s:sku>TS4805</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674041143355</id>
+    <published>2021-10-19T17:43:30+05:30</published>
+    <updated>2021-10-19T17:43:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/violetred-color-designer-bandhani-dola-silk-saree"/>
+    <title>Violetred Color Designer Bandhani Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/04_eeef3093-4535-49ba-9414-ef863a9736f5.jpg?v=1634645611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674041143355</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8890.00</s:price>
+      <s:sku>TS4804</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674038947899</id>
+    <published>2021-10-19T17:37:24+05:30</published>
+    <updated>2021-10-19T17:37:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-color-designer-patola-dola-silk-saree"/>
+    <title>Yellow Color Designer Patola Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/03_eca932ce-2479-4579-8301-9a693a3b117b.jpg?v=1634645244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674038947899</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8990.00</s:price>
+      <s:sku>TS4803</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674038095931</id>
+    <published>2021-10-19T17:35:39+05:30</published>
+    <updated>2021-10-19T17:35:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/lemon-color-designer-patola-dola-silk-saree"/>
+    <title>Lemon Color Designer Patola Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/02_bbb1f493-726c-448d-a6c7-3e7a19e45f96.jpg?v=1634645140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674038095931</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8990.00</s:price>
+      <s:sku>TS4802</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674033901627</id>
+    <published>2021-10-19T17:25:51+05:30</published>
+    <updated>2021-10-19T17:25:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-rich-designer-dola-silk-saree"/>
+    <title>Multi Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/01_9746ef1f-cd33-45e0-a6cd-8976aab67006.jpg?v=1634644552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy Gotapatti Border and Blouse.</p>
+<p>Stone Work.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674033901627</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8900.00</s:price>
+      <s:sku>TS4801</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6671542812731</id>
+    <published>2021-10-15T14:40:11+05:30</published>
+    <updated>2021-10-15T14:40:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/navy-blue-color-organza-with-jacquard-saree"/>
+    <title>Navy Blue Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/09_87d8041b-2ecf-4d79-a102-c0653b1db053.jpg?v=1634289148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #061e38;" data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #061e38;" data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6671542812731</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4790.00</s:price>
+      <s:sku>PS1009</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6671538782267</id>
+    <published>2021-10-15T14:35:20+05:30</published>
+    <updated>2021-10-15T14:35:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/olive-color-organza-with-jacquard-saree-1"/>
+    <title>Olive Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/08_ff7fb7a2-997e-4948-8a81-964f07674477.jpg?v=1634288721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #536805;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #536805;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6671538782267</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4870.00</s:price>
+      <s:sku>PS1008</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6671534555195</id>
+    <published>2021-10-15T14:29:58+05:30</published>
+    <updated>2021-10-15T14:29:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-color-organza-with-jacquard-saree"/>
+    <title>Dark Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/07_e9c30683-3f2c-46e4-910b-4ddf2f2defb9.jpg?v=1634288398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6671534555195</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4840.00</s:price>
+      <s:sku>PS1007</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6671531835451</id>
+    <published>2021-10-15T14:25:59+05:30</published>
+    <updated>2021-10-15T14:25:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-coral-color-organza-with-jacquard-saree"/>
+    <title>Light Coral Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/06_a94857c3-8866-48df-8937-40395c8dffa2.jpg?v=1634288159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6671531835451</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4790.00</s:price>
+      <s:sku>PS1006</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6671530262587</id>
+    <published>2021-10-15T14:23:30+05:30</published>
+    <updated>2021-10-15T14:23:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/olive-color-organza-with-jacquard-saree"/>
+    <title>Yellowgreen Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/05_a606a32c-9288-401b-91aa-061f1ac54fa5.jpg?v=1634288011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #4d7109;" data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #4d7109;" data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6671530262587</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4850.00</s:price>
+      <s:sku>PS1005</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6670791311419</id>
+    <published>2021-10-14T14:08:04+05:30</published>
+    <updated>2021-10-14T14:08:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/tomato-color-organza-with-jacquard-saree"/>
+    <title>Tomato Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/04_4ae606f1-bb19-4bdf-9ef5-bbe022ab3657.jpg?v=1634200684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #cf6822;">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #cf6822;">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6670791311419</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4630.00</s:price>
+      <s:sku>PS1004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6670786953275</id>
+    <published>2021-10-14T14:04:21+05:30</published>
+    <updated>2021-10-14T14:04:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-cyan-color-organza-with-jacquard-saree"/>
+    <title>Dark Cyan Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/03_61e67b41-6f78-4dd5-b33d-56e5aaa6a2d9.jpg?v=1634200462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6670786953275</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4750.00</s:price>
+      <s:sku>PS1003</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6670773616699</id>
+    <published>2021-10-14T13:55:12+05:30</published>
+    <updated>2021-10-14T13:55:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/grey-color-organza-with-jacquard-saree"/>
+    <title>Grey Color Organza with Jacquard Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/02_443fc49e-b45a-4362-875e-a4af2bbb9c30.jpg?v=1634199914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            4650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #848a91;" data-mce-fragment="1">Heavy Embroidery Border with Blouse, </span></p>
+<p><span style="color: #848a91;" data-mce-fragment="1">Stone work</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6670773616699</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4650.00</s:price>
+      <s:sku>PS1002</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

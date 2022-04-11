@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https:///collections/dipika.atom"/>
+  <title>Yaana Creats</title>
+  <updated>2022-02-22T15:22:06+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>https:///products/6788178280507</id>
+    <published>2022-02-22T15:22:06+05:30</published>
+    <updated>2022-02-22T15:22:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/silk-fabric-pitch-saree"/>
+    <title>SILK FABRIC PITCH SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13041.jpg?v=1645523527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FIOL ON SILKY FABRIC SAREE WITH RED WOVEN BODER AND PALLU, WITH GREEEN BLOUSE AND HAVY WORK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788178280507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2120.00</s:price>
+      <s:sku>1304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788139155515</id>
+    <published>2022-02-22T13:31:33+05:30</published>
+    <updated>2022-02-22T13:31:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-rama-combination-saree"/>
+    <title>YELLOW RAMA  COMBINATION SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13031.jpg?v=1645516894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Silk Febric Saree With Foil Work and Rama woven silk boder, and silk blouse  with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788139155515</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2250.00</s:price>
+      <s:sku>1303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788129128507</id>
+    <published>2022-02-22T13:19:26+05:30</published>
+    <updated>2022-02-22T13:19:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-onion-saree-with-boder"/>
+    <title>Beautiful Onion Saree with Boder</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13021.jpg?v=1645516168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Onion Saree with Foil Work And Banarasi Boder With Majanza blouse with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788129128507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788107305019</id>
+    <published>2022-02-22T11:55:52+05:30</published>
+    <updated>2022-02-22T11:55:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-pitch-saree-with-pink-blouse"/>
+    <title>Beautiful pitch  Saree With Pink Blouse</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/15021.jpg?v=1645511153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product-title" data-mce-fragment="1"><span data-mce-fragment="1">JACQUARD WOVEN SILK SAREE WITH EMBROIDERED WORK AND SWAROVSKI WORK</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788107305019</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3720.00</s:price>
+      <s:sku>1502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788103962683</id>
+    <published>2022-02-22T11:46:26+05:30</published>
+    <updated>2022-02-22T11:46:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-brown-saree"/>
+    <title>Beautiful Brown Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1501-1.jpg?v=1645510588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Beautiful Brown Saree with  RESHAM EMBROIDERY, ZARI, SWAROVSKIAND HAND WORK with YELLOW Blouse</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788103962683</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3599.00</s:price>
+      <s:sku>1501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788096720955</id>
+    <published>2022-02-22T11:25:58+05:30</published>
+    <updated>2022-02-22T11:25:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-yellow-organza-net-heavy-wedding-saree"/>
+    <title>light yellow organza net heavy wedding  saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14021.jpg?v=1645509359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5680.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Havy Embroidered on light  Yellow organza net with Cutwork and Jurkan work with PInk blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788096720955</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5680.00</s:price>
+      <s:sku>1402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788091379771</id>
+    <published>2022-02-22T11:12:42+05:30</published>
+    <updated>2022-02-22T11:12:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/designer-wedding-wear-saree"/>
+    <title>Designer Wedding Wear Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14011.jpg?v=1645508563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"> Designer Wedding Wear Grey  Saree with havy Embroidered and Jurkan Work</span></p>
+<p><span data-mce-fragment="1">on Orgenza net</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788091379771</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5460.00</s:price>
+      <s:sku>1401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

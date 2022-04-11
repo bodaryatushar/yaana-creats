@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https:///collections/all.atom"/>
+  <title>Yaana Creats</title>
+  <updated>2022-03-17T12:16:56+05:30</updated>
+  <author>
+    <name>Yaana Creats</name>
+  </author>
+  <entry>
+    <id>https:///products/6808590221371</id>
+    <published>2022-03-17T12:16:56+05:30</published>
+    <updated>2022-03-17T12:16:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/teal-blue-silk-embroidered-lehenga-with-peacock-motifs"/>
+    <title>Teal Blue Silk Embroidered Lehenga with Peacock Motifs</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1106.jpg?v=1647499617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            5875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teal Blue Silk Embroidered Lehenga with Peacock Motifs with Colorfull beads, havy blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6808590221371</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5875.00</s:price>
+      <s:sku>1106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6808537792571</id>
+    <published>2022-03-17T11:37:04+05:30</published>
+    <updated>2022-03-17T11:37:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/majanta-silk-all-over-embroidered-lehenga"/>
+    <title>Majanta Silk All Over Embroidered Lehenga</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11051.jpg?v=1647497225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            4649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Majanta Silk All Over Embroidered Lehenga  with Gota  Work And Hand Work With Orenge Dupatta</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6808537792571</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4649.00</s:price>
+      <s:sku>1105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792318287931</id>
+    <published>2022-02-28T14:11:51+05:30</published>
+    <updated>2022-02-28T14:11:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pista-green-silk-embroidered-lehenga"/>
+    <title>Pista Green Silk Embroidered Lehenga</title>
+    <s:type>LEHANGA CHOLI</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1104.jpg?v=1646037712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHANGA CHOLI<br>
+        <strong>Price: </strong>
+            4625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pista Green Silk Embroidered Lehenga With Havy Handwork and pink Dupatta With Pink Work Boder</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792318287931</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4625.00</s:price>
+      <s:sku>1104 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792265760827</id>
+    <published>2022-02-28T12:07:47+05:30</published>
+    <updated>2022-02-28T12:07:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pink-silk-havy-embroidered-lehenga"/>
+    <title>Pink Silk Havy Embroidered Lehenga</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11031.jpg?v=1646030344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            6780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Silk Havy Embroidered Lehenga with Havy Jurkan Work , ton to ton Net Dupatta, and HAvy Blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792265760827</id>
+      <title>Default Title</title>
+      <s:price currency="INR">6780.00</s:price>
+      <s:sku>1103 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792262844475</id>
+    <published>2022-02-28T11:58:27+05:30</published>
+    <updated>2022-02-28T11:58:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/pink-silk-embroidered-lehenga-with-bird-patching-motifs"/>
+    <title>Pink Silk Embroidered Lehenga with Bird Patching Motifs</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11021.jpg?v=1646029708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            4650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Silk Embroidered Lehenga with Bird Patching Motifs And Havy Hand Work WIth light Pink Net Duptaa With Boder</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792262844475</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4650.00</s:price>
+      <s:sku>1102 A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6792256487483</id>
+    <published>2022-02-28T11:40:57+05:30</published>
+    <updated>2022-02-28T11:40:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-silk-embroidered-lehenga"/>
+    <title>Yellow Silk Embroidered Lehenga</title>
+    <s:type>Wedding Dresses</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/11011.jpg?v=1646028657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Wedding Dresses<br>
+        <strong>Price: </strong>
+            5199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yellow Silk Embroidered Lehenga With Havy Hand Work, With Mehnadi Net Dujpatta</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6792256487483</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5199.00</s:price>
+      <s:sku>1101 a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788892622907</id>
+    <published>2022-02-23T10:53:29+05:30</published>
+    <updated>2022-02-23T10:53:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/orange-organza-saree"/>
+    <title>Orange Organza Saree</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13061.jpg?v=1645593810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="page-title" data-mce-fragment="1"><span data-ui-id="page-title-wrapper" class="base" data-mce-fragment="1">Orange Organza  Leheriya  Saree with With Foil Work, And orenge Woven Boder With Jari Work, Havy Blouse With Hand Work</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788892622907</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2160.00</s:price>
+      <s:sku>1506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788882989115</id>
+    <published>2022-02-23T10:38:42+05:30</published>
+    <updated>2022-02-23T10:38:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-pastel-pista-green-organza-saree"/>
+    <title>Light Pastel Pista Green Organza saree</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13051.jpg?v=1645592924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Likght Pastle Orgenza Net Saree With Checks Foil Work, Green Woven Boder, And Green Havy Work BLouse</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788882989115</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2280.00</s:price>
+      <s:sku>1305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788178280507</id>
+    <published>2022-02-22T15:22:06+05:30</published>
+    <updated>2022-02-22T15:22:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/silk-fabric-pitch-saree"/>
+    <title>SILK FABRIC PITCH SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13041.jpg?v=1645523527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FIOL ON SILKY FABRIC SAREE WITH RED WOVEN BODER AND PALLU, WITH GREEEN BLOUSE AND HAVY WORK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788178280507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2120.00</s:price>
+      <s:sku>1304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788139155515</id>
+    <published>2022-02-22T13:31:33+05:30</published>
+    <updated>2022-02-22T13:31:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-rama-combination-saree"/>
+    <title>YELLOW RAMA  COMBINATION SAREE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13031.jpg?v=1645516894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Silk Febric Saree With Foil Work and Rama woven silk boder, and silk blouse  with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788139155515</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2250.00</s:price>
+      <s:sku>1303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788129128507</id>
+    <published>2022-02-22T13:19:26+05:30</published>
+    <updated>2022-02-22T13:19:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-onion-saree-with-boder"/>
+    <title>Beautiful Onion Saree with Boder</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13021.jpg?v=1645516168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Onion Saree with Foil Work And Banarasi Boder With Majanza blouse with Havy Work</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788129128507</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788126539835</id>
+    <published>2022-02-22T13:05:20+05:30</published>
+    <updated>2022-02-22T13:05:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/prussian-blue-saree-with-yellow-blouse"/>
+    <title>PRUSSIAN BLUE SAREE WITH YELLOW BLOUSE</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/13011.jpg?v=1645515322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            2475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PRUSSIAN BLUE SAREE WITH FOIL WORK AND BANARASI SILK BODER AND PALLU WITHYELLOW BLOUSE HAVY  EMBROIDERED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788126539835</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2475.00</s:price>
+      <s:sku>1301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788107305019</id>
+    <published>2022-02-22T11:55:52+05:30</published>
+    <updated>2022-02-22T11:55:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-pitch-saree-with-pink-blouse"/>
+    <title>Beautiful pitch  Saree With Pink Blouse</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/15021.jpg?v=1645511153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product-title" data-mce-fragment="1"><span data-mce-fragment="1">JACQUARD WOVEN SILK SAREE WITH EMBROIDERED WORK AND SWAROVSKI WORK</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788107305019</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3720.00</s:price>
+      <s:sku>1502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788103962683</id>
+    <published>2022-02-22T11:46:26+05:30</published>
+    <updated>2022-02-22T11:46:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/beautiful-brown-saree"/>
+    <title>Beautiful Brown Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/1501-1.jpg?v=1645510588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            3599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Beautiful Brown Saree with  RESHAM EMBROIDERY, ZARI, SWAROVSKIAND HAND WORK with YELLOW Blouse</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788103962683</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3599.00</s:price>
+      <s:sku>1501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788096720955</id>
+    <published>2022-02-22T11:25:58+05:30</published>
+    <updated>2022-02-22T11:25:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/light-yellow-organza-net-heavy-wedding-saree"/>
+    <title>light yellow organza net heavy wedding  saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14021.jpg?v=1645509359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5680.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Havy Embroidered on light  Yellow organza net with Cutwork and Jurkan work with PInk blouse</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788096720955</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5680.00</s:price>
+      <s:sku>1402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6788091379771</id>
+    <published>2022-02-22T11:12:42+05:30</published>
+    <updated>2022-02-22T11:12:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/designer-wedding-wear-saree"/>
+    <title>Designer Wedding Wear Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/14011.jpg?v=1645508563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            5460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"> Designer Wedding Wear Grey  Saree with havy Embroidered and Jurkan Work</span></p>
+<p><span data-mce-fragment="1">on Orgenza net</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6788091379771</id>
+      <title>Default Title</title>
+      <s:price currency="INR">5460.00</s:price>
+      <s:sku>1401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6776206164027</id>
+    <published>2022-02-07T13:27:28+05:30</published>
+    <updated>2022-02-07T13:27:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-lehenga-choli-with-red-dupatta"/>
+    <title>YELLOW LEHENGA CHOLI WITH RED DUPATTA</title>
+    <s:type>LEHANGA CHOLI</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/12091.jpg?v=1644220650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHANGA CHOLI<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">YELLOW LEHENGA CHOLI WITH RED DUPATTA WITH EMBROIDERD AND HAND WORK WITH ROW SILK BLOUSE</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6776206164027</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3999.00</s:price>
+      <s:sku>1209</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6776197054523</id>
+    <published>2022-02-07T12:34:46+05:30</published>
+    <updated>2022-02-07T12:34:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/girlish-embroidered-lehenga"/>
+    <title>Girlish Embroidered lehenga</title>
+    <s:type>LEHNGA</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/12041.jpg?v=1644217487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>LEHNGA<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="product_title" data-mce-fragment="1">
+<span data-mce-fragment="1"> </span>BEAUTIFUL ONION COLOR WITH HEAVY WORKED LEHENGA CHOLI, WITH MAJTA BLOUSE AND PISTA NET DUPATTA WITH WORK</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6776197054523</id>
+      <title>Default Title</title>
+      <s:price currency="INR">4999.00</s:price>
+      <s:sku>1204</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674060181563</id>
+    <published>2021-10-19T18:23:12+05:30</published>
+    <updated>2021-10-19T18:23:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-rich-designer-dola-silk-saree-1"/>
+    <title>Multi Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/09_b483da8d-171f-4529-ba4e-d4923c4636a2.jpg?v=1634647992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery </span><span data-mce-fragment="1">Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674060181563</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8100.00</s:price>
+      <s:sku>TS4809</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674059296827</id>
+    <published>2021-10-19T18:21:24+05:30</published>
+    <updated>2021-10-19T18:21:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/turquoise-color-rich-designer-dola-silk-saree"/>
+    <title>Turquoise Color Rich Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/08_4334cd3e-045f-4690-bfd2-b18a634f53a9.jpg?v=1634647884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674059296827</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>TS4808</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674057265211</id>
+    <published>2021-10-19T18:17:22+05:30</published>
+    <updated>2021-10-19T18:17:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/grey-color-designer-dola-silk-saree"/>
+    <title>Grey Color Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/07-1_41ae837e-592b-4c34-99e7-4ee2760664ea.jpg?v=1634647643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse.</span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674057265211</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8250.00</s:price>
+      <s:sku>TS4807</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674055823419</id>
+    <published>2021-10-19T18:14:39+05:30</published>
+    <updated>2021-10-19T18:14:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/multi-color-floral-designer-dola-silk-saree"/>
+    <title>Multi Color Floral Designer Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/06_4da728ed-bfcd-422f-bb18-e2c26294e12e.jpg?v=1634647480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            7450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674055823419</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7450.00</s:price>
+      <s:sku>TS4806</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674054152251</id>
+    <published>2021-10-19T18:10:54+05:30</published>
+    <updated>2021-10-19T18:10:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/dark-red-color-designer-bhandej-dola-silk-saree"/>
+    <title>Dark Red Color Designer Bhandej Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/05_6a84d55d-44fe-4b79-8724-9424dd0bdf74.jpg?v=1634647255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674054152251</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8900.00</s:price>
+      <s:sku>TS4805</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674041143355</id>
+    <published>2021-10-19T17:43:30+05:30</published>
+    <updated>2021-10-19T17:43:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/violetred-color-designer-bandhani-dola-silk-saree"/>
+    <title>Violetred Color Designer Bandhani Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/04_eeef3093-4535-49ba-9414-ef863a9736f5.jpg?v=1634645611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Embroidery with Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674041143355</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8890.00</s:price>
+      <s:sku>TS4804</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https:///products/6674038947899</id>
+    <published>2021-10-19T17:37:24+05:30</published>
+    <updated>2021-10-19T17:37:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https:///products/yellow-color-designer-patola-dola-silk-saree"/>
+    <title>Yellow Color Designer Patola Dola Silk Saree</title>
+    <s:type>Saree</s:type>
+    <s:vendor>Yaana Creats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0320/9514/1947/products/03_eca932ce-2479-4579-8301-9a693a3b117b.jpg?v=1634645244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yaana Creats<br>
+        <strong>Type: </strong>Saree<br>
+        <strong>Price: </strong>
+            8990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Heavy Gotapatti Border and Blouse. </span></p>
+<p><span data-mce-fragment="1">Stone Work.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https:///products/6674038947899</id>
+      <title>Default Title</title>
+      <s:price currency="INR">8990.00</s:price>
+      <s:sku>TS4803</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
